@@ -29,7 +29,7 @@
 - [Міністерство економіки та довкілля України](https://www.me.gov.ua/News/Detail/5a675693-c123-4807-bd16-e8be5b49f5c5?utm_source=chatgpt.com) - офіційна інформація.
 - [Фінансовий клуб](https://finclub.net/news/mytna-sluzhba-poiasnyla-informatsiiu-pro-eksport-ukrainskoi-stali-do-rosii-u-2024-rotsi.html?utm_source=chatgpt.com) - пояснення митної статистики щодо експорту української сталі до РФ у 2024 році.
 
-- 
+  
 
 ## 🛠️ Інструменти
 - **Google Sheets** - підготовка даних та розділення за країнами призначення і країнами, що торгують.
